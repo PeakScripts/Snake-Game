@@ -2,10 +2,9 @@
 A snake game written in Python
 
 # 📁 〢 Setting up SnakeGame
-1. Install [Python](https://www.python.org/ftp/python/3.10.0/python-3.10.0-amd64.exe) MAKE SURE U CLICK ON ADD PYTHON 3.10 TO PATH
+1. Install [Python](https://www.python.org/ftp/python/3.10.0/python-3.10.0-amd64.exe)
 3. Install [The Game](https://github.com/CdIkEXPLOIT/Snake-Game/archive/refs/heads/main.zip)
-4. Install all the requirements (requirements.bat)
-5. Run the SnakeGame
+4. Run the SnakeGame
 
 # The Game:
 ![image](https://user-images.githubusercontent.com/122708389/213959365-c5e52657-b1de-48a3-8889-451aed8bb89e.png)
